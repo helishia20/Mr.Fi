@@ -1,0 +1,39 @@
+{
+  "hunger": 60,
+  "happiness": 65,
+  "energy": 60,
+  "coins": 71,
+  "coins_lifetime": 221,
+  "xp": 0,
+  "level": 1,
+  "inventory": {
+    "egg_sandwich": 1,
+    "grapefruit": 1
+  },
+  "skip_streak": 0,
+  "away_seconds": 0,
+  "last_played": 1780643315.9009433,
+  "wallet_cap": 500,
+  "piggy": 0,
+  "owned_backgrounds": [
+    "bg_main",
+    "bg_bedroom"
+  ],
+  "active_background": "bg_main",
+  "owned_decorations": [
+    "deco_rabbit_flower",
+    "deco_fluffy_flower"
+  ],
+  "placed_decorations": [
+    {
+      "id": "deco_fluffy_flower",
+      "x": 230,
+      "y": 415
+    },
+    {
+      "id": "deco_rabbit_flower",
+      "x": 254,
+      "y": 306
+    }
+  ]
+}
